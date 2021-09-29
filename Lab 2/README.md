@@ -7,3 +7,6 @@ Using Atmel AVR assembly language programming, implement external interrupts and
 - Write an ISR to switch ON an LED for a few seconds (10 secs) and then switch OFF. (The lighting of the LED could be verified by monitoring the signal to switch it ON).
 - Use the 16 bit timer to make an LED blink with a duration of 1 second.
 - Also, one needs to implement all of the above using C-interface.
+
+## Codes
+You can find all the codes in the report I have created. You can find the explanations and flowcharts as well
