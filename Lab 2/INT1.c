@@ -14,11 +14,9 @@ ISR (INT1_vect)
 		_delay_ms(1000);   // delay of 1 sec
 		PORTB=0x00;
 		_delay_ms(1000);
-		
 	}
-	
-	
 }
+
 int main(void)
 {
 	//Set the input/output pins appropriately
