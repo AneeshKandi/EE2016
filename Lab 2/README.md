@@ -9,4 +9,4 @@ Using Atmel AVR assembly language programming, implement external interrupts and
 - Also, one needs to implement all of the above using C-interface.
 
 ## Codes
-You can find all the codes in the report I have created. You can find the explanations and flowcharts as well
+You can find all the codes in the report. You can find the explanations and flowcharts as well :)
