@@ -13,5 +13,7 @@ Write a program (in C) to dis-assemble a byte into two nibbles from the DIP swit
 product in the LED.
 
 ### Problem 2
-Modify the demo code (StpprMtrCntrl.c) supplied to demonstrate the control of stepper motor to rotate in opposite
-direction.
+Write a program to control the stepper motor. Make it rotate in both the directions.
+
+### Software used
+Keil microvision 5 
